@@ -128,5 +128,6 @@ function renderProducts(products) {
 
 fetchData();
 
+console.log("fetching data completed");
 
 // haaaaruthive birdsuuuuuuu galu woodhuuuuthiveeeeee cowsugaluuuuuuuuu 
