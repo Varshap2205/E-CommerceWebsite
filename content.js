@@ -127,3 +127,5 @@ function renderProducts(products) {
 }
 
 fetchData();
+
+console.log("data fetching");
